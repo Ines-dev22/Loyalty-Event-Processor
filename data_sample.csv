@@ -1,0 +1,11 @@
+event_id,event_type,timestamp,user_id,amount,points,store_id,name,user_type
+EVT-901,user_created,2023-10-28 08:15:00,U005,,,PARIS_01,Alice,customer
+EVT-902,transaction,2023-10-28 08:20:00,U005,45.5,,PARIS_01,,
+EVT-903,transaction,2023-10-28 12:45:00,U005,150.0,,PARIS_01,,
+EVT-904,transaction,2023-10-28 12:50:00,U001,12.0,,LYON_02,,
+EVT-905,transaction,2023-10-28 18:30:00,U002,250.0,,LYON_02,,
+EVT-906,points_added,2023-10-28 18:35:00,U002,,100,LYON_02,,
+EVT-907,transaction,2023-10-28 09:00:00,U003,-50.0,,PARIS_01,,
+EVT-908,user_created,2023-10-28 09:05:00,S002,,,BORDEAUX_03,Bob,staff
+EVT-902,transaction,2023-10-28 08:20:00,U005,45.5,,PARIS_01,,
+EVT-909,transaction,2023-10-28 21:15:00,U001,85.0,,ONLINE,,
